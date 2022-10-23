@@ -14,8 +14,9 @@ _**N.B:** Considereremo come "risolti" gli esercizi con soluzioni confermate da 
 
 ### Collegamenti rapidi
 
-- [Esercizi etichettati come "risolti"](../../issues?q=label%3Arisolto+sort%3Aupdated-desc+)
+- [Esercizi etichettati come "risolti"](../../issues?q=label%3Arisolto)
 - [Esercizi etichettati come "da revisionare"](../../issues?q=label%3A"da+revisionare")
+- [Esercizi etichettati come "da risolvere"](../../issues?q=label%3A"da+risolvere")
 - [Aggiornamenti (commenti / soluzioni) più recenti](../../issues?q=sort%3Aupdated-desc+)
 
 ### Risorse utili
