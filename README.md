@@ -21,7 +21,7 @@ _**N.B:** Considereremo come "risolti" gli esercizi con soluzioni confermate in 
 
 ### Risorse utili
 
-- **Moodle del corso** [[🌐]](https://elearning.uniroma1.it/enrol/index.php?id=15457) » contiene i testi degli esercizi presenti in questo repository ed è dove vengono publicati eventuali annunci del prof. Marco Isopi circa lo svolgimento del corso
+- **Moodle del corso** [[🌐]](https://elearning.uniroma1.it/enrol/index.php?id=15457) » contiene i testi degli esercizi presenti in questo repository ed è dove il prof. Marco Isopi pubblica eventuali annunci circa lo svolgimento del corso
 
 ### Attenzione
 
