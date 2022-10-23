@@ -10,7 +10,7 @@ _**N.B:** Considereremo come "risolti" gli esercizi con soluzioni confermate da 
 
 |    |    |    |
 |----|----|----|
-| Settimana 10 - 14 ottobre | [01](#scheda-di-esercizi-1)  | [02](#scheda-di-esercizi-2)  |
+| Settimana 10 - 14 ottobre | [esercizi1](#scheda-di-esercizi-1)  | [esercizi2](#scheda-di-esercizi-2)  |
 
 ### Collegamenti rapidi
 
