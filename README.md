@@ -2,9 +2,9 @@
 
 ## Introduzione
 
-Lo scopo di questo repository GitHub, basato sulla stessa idea ed organizzazione del [repository di Metodi Matematici durante l'A.A. 2021-2022](https://github.com/sapienzastudentsnetwork/mmi2122), è di condividere e confrontare tra di noi le soluzioni alle schede di esercizi di Calcolo delle Probabilità (I modulo) del prof. Marco Isopi pubblicate durante l'Anno Accademico 2022-2023. In questo repository potrai dunque trovare (ed eventualmente confermare) soluzioni proposte da altri studenti o anche metterti alla prova proponendo le tue!
+Lo scopo di questo repository GitHub, basato sulla stessa idea ed organizzazione del repository di Metodi Matematici durante l'A.A. 2021-2022 [[🌐]](https://github.com/sapienzastudentsnetwork/mmi2122), è di condividere e confrontare tra di noi le soluzioni alle schede di esercizi di Calcolo delle Probabilità (I modulo) del prof. Marco Isopi pubblicate durante l'Anno Accademico 2022-2023. In questo repository potrai dunque trovare (ed eventualmente confermare) soluzioni proposte da altri studenti o anche metterti alla prova proponendo le tue!
 
-*N.B:* Considereremo come "risolti" gli esercizi con soluzioni confermate da più di uno studente per cui ricordate nelle pagine degli esercizi (issues) di aggiungere come "reazione" alle soluzioni a vostro avviso corrette un pollice in sù o anche un commento del tipo "Soluzione analoga a quella di **tizio**"; ovviamente anche altri approcci risolutivi che portano allo stesso risultato per confermarlo ulteriormente sono i benvenuti!
+**N.B:** Considereremo come "risolti" gli esercizi con soluzioni confermate da più di uno studente per cui ricordate nelle pagine degli esercizi (issues) di aggiungere come "reazione" alle soluzioni a vostro avviso corrette un pollice in sù o anche un commento del tipo "Soluzione analoga a quella di <nome>"; ovviamente anche altri approcci risolutivi che portano allo stesso risultato per confermarlo ulteriormente sono i benvenuti!
 
 ### Schede di esercizi
 
@@ -20,7 +20,7 @@ Lo scopo di questo repository GitHub, basato sulla stessa idea ed organizzazione
 
 ### Risorse utili
 
-- Pagina Moodle del corso [🌐](https://elearning.uniroma1.it/enrol/index.php?id=15457) » in questa pagina sono disponibili i PDF originali contenenti i testi degli esercizi presenti in questo repository
+- **Pagina Moodle del corso** [[🌐]](https://elearning.uniroma1.it/enrol/index.php?id=15457) » in questa pagina sono disponibili i PDF originali contenenti i testi degli esercizi presenti in questo repository
 
 ### Attenzione
 
