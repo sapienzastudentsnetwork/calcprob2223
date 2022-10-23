@@ -2,7 +2,7 @@
 
 ## Introduzione
 
-Lo scopo di questo repository GitHub, basato sulla stessa idea ed organizzazione del repository di Metodi Matematici durante l'A.A. 2021-2022 [[🌐]](https://github.com/sapienzastudentsnetwork/mmi2122), è di condividere e confrontare tra di noi le soluzioni alle schede di esercizi di Calcolo delle Probabilità (I modulo) del prof. Marco Isopi pubblicate durante l'Anno Accademico 2022-2023. In questo repository potrai dunque trovare (ed eventualmente confermare) soluzioni proposte da altri studenti o anche metterti alla prova proponendo le tue!
+Lo scopo di questo repository GitHub, _basato sulla stessa idea ed organizzazione del repository di Metodi Matematici durante l'A.A. 2021-2022 [[🌐]](https://github.com/sapienzastudentsnetwork/mmi2122)_, è di condividere e confrontare tra di noi le soluzioni alle schede di esercizi di Calcolo delle Probabilità (I modulo) del prof. Marco Isopi pubblicate durante l'Anno Accademico 2022-2023. In questo repository potrai dunque trovare (ed eventualmente confermare) soluzioni proposte da altri studenti o anche metterti alla prova proponendo le tue!
 
 _**N.B:** Considereremo come "risolti" gli esercizi con soluzioni confermate da più di uno studente per cui ricodati nelle pagine degli esercizi (issues) di aggiungere come "reazione" alle soluzioni a tuo avviso corrette un pollice in sù o anche un commento del tipo "Soluzione analoga a quella di tizio"; ovviamente anche altri approcci risolutivi che portano allo stesso risultato per confermarlo ulteriormente sono i benvenuti!_
 
