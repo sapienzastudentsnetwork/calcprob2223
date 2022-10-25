@@ -11,12 +11,14 @@ _**N.B:** Considereremo come "risolti" gli esercizi con soluzioni confermate in 
 |    |    |    |
 |----|----|----|
 | Settimana 10 - 14 ottobre | [esercizi1](#scheda-di-esercizi-1)  | [esercizi2](#scheda-di-esercizi-2)  |
+| Settimana 17 - 21 ottobre | [esercizi3](#scheda-di-esercizi-3)  | [esercizi4](#scheda-di-esercizi-4)  |
+| Settimana 21 - 27 ottobre | [esercizi5](#scheda-di-esercizi-5)  | |
 
 ### Collegamenti rapidi
 
-- [Esercizi etichettati come "risolti"](../../issues?q=label%3Arisolto)
-- [Esercizi etichettati come "da revisionare"](../../issues?q=label%3A"da+revisionare")
 - [Esercizi etichettati come "da risolvere"](../../issues?q=label%3A"da+risolvere")
+- [Esercizi etichettati come "da revisionare"](../../issues?q=label%3A"da+revisionare")
+- [Esercizi etichettati come "risolti"](../../issues?q=label%3Arisolto)
 - [Aggiornamenti (commenti / soluzioni) più recenti](../../issues?q=sort%3Aupdated-desc+)
 
 ### Risorse utili
@@ -41,3 +43,25 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 |    |    |    |    |    |     |
 |----|----|----|----|----|-----|
 | [01](../../issues/11)  | [02](../../issues/12)  | [03](../../issues/13)  | [04](../../issues/14)  | [05](../../issues/15)  | [06](../../issues/16)  |
+
+## Settimana 17 ottobre - 21 ottobre
+
+### Scheda di esercizi 3
+
+|    |    |    |    |    |
+|----|----|----|----|----|
+| [01](../../issues/18)  | [02](../../issues/19)  | [03](../../issues/20)  | [04](../../issues/21)  | [05](../../issues/22)  |
+
+### Scheda di esercizi 4
+
+|    |    |    |    |    |     |
+|----|----|----|----|----|-----|
+| [01](../../issues/23)  | [02](../../issues/24)  | [03](../../issues/25)  | [04](../../issues/26)  | [05](../../issues/27)  | [06](../../issues/28)  |
+
+## Settimana 21 ottobre - 27 ottobre
+
+### Scheda di esercizi 5
+
+|    |    |    |    |    |
+|----|----|----|----|----|
+| [01](../../issues/29)  | [02](../../issues/30)  | [03](../../issues/31)  | [04](../../issues/32)  | [05](../../issues/33)  |
