@@ -6,16 +6,14 @@ Lo scopo di questo repository GitHub, _basato sulla stessa idea ed organizzazion
 
 _**N.B:** Considereremo come "risolti" gli esercizi con soluzioni confermate in classe dal professore o su GitHub da più di uno studente, per cui ricodati nelle pagine degli esercizi (issues) di aggiungere come "reazione" alle soluzioni a tuo avviso corrette un pollice in sù o anche un commento del tipo "Soluzione analoga a quella di tizio"; ovviamente anche altri approcci risolutivi che portano allo stesso risultato per confermarlo ulteriormente sono i benvenuti!_
 
-### Schede di esercizi
-
-|    |    |    |
-|----|----|----|
-| Settimana 10 - 14 ottobre | [esercizi1](#scheda-di-esercizi-1)  | [esercizi2](#scheda-di-esercizi-2)  |
-| Settimana 17 - 21 ottobre | [esercizi3](#scheda-di-esercizi-3)  | [esercizi4](#scheda-di-esercizi-4)  |
-| Settimana 21 - 27 ottobre | [esercizi5](#scheda-di-esercizi-5)  | |
-
 ### Collegamenti rapidi
 
+**Schede di esercizi**
+- |    |    |    |    |    |
+  |----|----|----|----|----|
+  | [1](#scheda-di-esercizi-1) | [2](#scheda-di-esercizi-2) | [3](#scheda-di-esercizi-3) | [4](#scheda-di-esercizi-4) | [5](#scheda-di-esercizi-5) |
+
+**Filtri per categoria**
 - [Esercizi etichettati come "da risolvere"](../../issues?q=label%3A"da+risolvere")
 - [Esercizi etichettati come "da revisionare"](../../issues?q=label%3A"da+revisionare")
 - [Esercizi etichettati come "risolti"](../../issues?q=label%3Arisolto)
@@ -29,7 +27,7 @@ _**N.B:** Considereremo come "risolti" gli esercizi con soluzioni confermate in 
 
 Questo repository è gestito e contribuito da studenti e in quanto tale non è ufficiale e non sostituisce né intende sostituire le fonti ufficiali!
 
-## Settimana 10 - 14 ottobre
+## Schede di esercizi
 
 ### Scheda di esercizi 1
 
@@ -44,8 +42,6 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 |----|----|----|----|----|-----|
 | [01](../../issues/11)  | [02](../../issues/12)  | [03](../../issues/13)  | [04](../../issues/14)  | [05](../../issues/15)  | [06](../../issues/16)  |
 
-## Settimana 17 ottobre - 21 ottobre
-
 ### Scheda di esercizi 3
 
 |    |    |    |    |    |
@@ -57,8 +53,6 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 |    |    |    |    |    |     |
 |----|----|----|----|----|-----|
 | [01](../../issues/23)  | [02](../../issues/24)  | [03](../../issues/25)  | [04](../../issues/26)  | [05](../../issues/27)  | [06](../../issues/28)  |
-
-## Settimana 21 ottobre - 27 ottobre
 
 ### Scheda di esercizi 5
 
