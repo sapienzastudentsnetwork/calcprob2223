@@ -66,4 +66,4 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 |----|----|----|----|----|
 | [01*](../../issues/26)  | [02*](../../issues/27)  | [03*](../../issues/28)  | [04](../../issues/32)  | [05](../../issues/33)  |
 
-* Esercizio 1, 2 e 3 della scheda di esercizi 5 sono identici rispettivamente agli esercizi 4, 5 e 6 della scheda 4, facendoci click verrete quindi reindirizzati direttamente ai corrispondenti della scheda precedente
+\* _Esercizio 1, 2 e 3 della scheda di esercizi 5 sono identici rispettivamente agli esercizi 4, 5 e 6 della scheda 4, facendoci click verrete quindi reindirizzati direttamente ai corrispondenti della scheda precedente_
