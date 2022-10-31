@@ -23,7 +23,7 @@ _**N.B:** Considereremo come "risolti" gli esercizi con soluzioni confermate in 
 
 - **Moodle del corso** [[🌐]](https://elearning.uniroma1.it/enrol/index.php?id=15457) » contiene i testi degli esercizi presenti in questo repository ed è dove il prof. Marco Isopi pubblica eventuali annunci circa lo svolgimento del corso
 
-- **Materiale A.A. 2016-2017** [[🌐]](https://www1.mat.uniroma1.it/people/isopi/didattica/CPI/index.html) » contiene il materiale didattico (diario delle lezioni, esercizi, esoneri, esami e soluzioni) di quando il prof. Marco Isopi ha tenuto lo stesso corso durante l'ANNO Accademico 2016-2017
+- **Materiale A.A. 2016-2017** [[🌐]](https://www1.mat.uniroma1.it/people/isopi/didattica/CPI/index.html) » contiene il materiale didattico (diario delle lezioni, esercizi, esoneri, esami e soluzioni) di quando il prof. Marco Isopi ha tenuto lo stesso corso durante l'Anno Accademico 2016 - 2017
 
 ### Attenzione
 
