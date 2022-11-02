@@ -8,6 +8,9 @@ _**N.B:** Considereremo come "risolti" gli esercizi con soluzioni confermate in 
 
 ### Collegamenti rapidi
 
+#### Prove passate
+- [Simulazione esonero di Novembre 2016](#simulazione-esonero-di-novembre-2016)
+
 #### Schede di esercizi
 |    |    |    |    |    |    |
 |----|----|----|----|----|----|
@@ -83,3 +86,11 @@ Per ogni scheda è disponibile una tabella con collegamenti ai singoli esercizi
 |    |    |    |    |    |     |
 |----|----|----|----|----|-----|
 | [01](../../issues/34)  | [02](../../issues/35)  | [03](../../issues/36)  | [04](../../issues/37)  | [05](../../issues/38)  | [06](../../issues/39)  |
+
+### Prove passate
+
+#### Simulazione esonero di Novembre 2016
+
+|    |    |    |    |    |     |
+|----|----|----|----|----|-----|
+| [01](../../issues/40)  | [02](../../issues/41)  | [03](../../issues/42)  | [04](../../issues/43)  | [05](../../issues/44)  | [06](../../issues/45)  |
