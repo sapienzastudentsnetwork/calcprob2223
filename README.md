@@ -87,6 +87,32 @@ Per ogni scheda è disponibile una tabella con collegamenti ai singoli esercizi
 |----|----|----|----|----|-----|
 | [01](../../issues/34)  | [02](../../issues/35)  | [03](../../issues/36)  | [04](../../issues/37)  | [05](../../issues/38)  | [06](../../issues/39)  |
 
+### Scheda di esercizi 7
+
+#### Esercizi
+
+|    |    |    |
+|----|----|----|
+| [01](../../issues/46)  | [02](../../issues/47)  | [03](../../issues/48)  |
+| [04](../../issues/49)  | [05](../../issues/50)  | [06](../../issues/51)  |
+| [07](../../issues/52)  | [08](../../issues/53)  | [09](../../issues/54)  |
+
+### Scheda di esercizi 8
+
+#### Esercizi
+
+|    |    |    |
+|----|----|----|
+| [01](../../issues/55)  | [02](../../issues/56)  | [03](../../issues/57)  |
+
+### Scheda di esercizi 9
+
+#### Esercizi
+
+|    |    |    |    |    |
+|----|----|----|----|----|
+| [01](../../issues/58)  | [02](../../issues/59)  | [03](../../issues/60)  | [04](../../issues/61)  | [05](../../issues/62)
+
 ### Prove passate
 
 #### Simulazione esonero di Novembre 2016
