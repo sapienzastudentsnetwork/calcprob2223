@@ -105,7 +105,7 @@ Per ogni scheda è disponibile una tabella con collegamenti ai singoli esercizi
 |----|----|----|----|----|
 | [01*](../../issues/54)  | [02](../../issues/56)  | [03](../../issues/57)  | [04](../../issues/64) | [05](../../issues/65) |
 
-* L'esercizio 1 della scheda di esercizi 8 è identico all'esercizio 9 della scheda 7, facendoci click verrete quindi reindirizzati a quest'ultimo
+\* _L'esercizio 1 della scheda di esercizi 8 è identico all'esercizio 9 della scheda 7, facendoci click verrete quindi reindirizzati a quest'ultimo_
 
 ### Scheda di esercizi 9
 
