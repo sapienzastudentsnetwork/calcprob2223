@@ -101,9 +101,9 @@ Per ogni scheda è disponibile una tabella con collegamenti ai singoli esercizi
 
 #### Esercizi
 
-|    |    |    |
-|----|----|----|
-| [01](../../issues/55)  | [02](../../issues/56)  | [03](../../issues/57)  |
+|    |    |    |    |    |
+|----|----|----|----|----|
+| [01](../../issues/55)  | [02](../../issues/56)  | [03](../../issues/57)  | [04](../../issues/64) | [05](../../issues/65) |
 
 ### Scheda di esercizi 9
 
