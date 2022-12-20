@@ -172,6 +172,6 @@ Per ogni scheda è disponibile una tabella con collegamenti ai singoli esercizi
 
 |    |    |    |    |    |     |     |
 |----|----|----|----|----|-----|-----|
-| [01](../../issues/67)  | [02](../../issues/78)  | [03](../../issues/69)  | [04](../../issues/74)  | [05](../../issues/71)  | [06](../../issues/72) | [A](../../issues/77) |
+| [01](../../issues/67)  | [02*](../../issues/78)  | [03](../../issues/69)  | [04*](../../issues/74)  | [05](../../issues/71)  | [06](../../issues/72) | [A*](../../issues/77) |
 
-_**N.B.:** Gli esercizi 2, 4 e A sono duplicati rispetto ad esercizi di prove di esonero passate, facendoci click verrete pertanto reindirizzato direttamente all'esercizio corrispondente dell'esonero da cui provengono originariamente_
+\* _Gli esercizi 2, 4 e A sono duplicati rispetto ad esercizi di prove di esonero passate, facendoci click verrete pertanto reindirizzato direttamente all'esercizio corrispondente dell'esonero da cui provengono originariamente_
