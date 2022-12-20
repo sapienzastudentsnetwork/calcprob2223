@@ -151,7 +151,7 @@ Per ogni scheda è disponibile una tabella con collegamenti ai singoli esercizi
 |----|----|----|----|----|
 | [01](../../issues/90)  | [02*](../../issues/78)  | [03](../../issues/92)  | [04](../../issues/93)  | [05](../../issues/94)  |
 
-\* _L'esercizio 2 è identico all'esercizio 1 dell'esonero di Dicembre 2014, facendoci click verrai quindi reindirizzato alla pagina di quest'ultimo__
+\* _L'esercizio 2 è identico all'esercizio 1 dell'esonero di Dicembre 2014, facendoci click verrai quindi reindirizzato alla pagina di quest'ultimo_
 
 #### Esonero A di Dicembre 2016
 
@@ -159,7 +159,7 @@ Per ogni scheda è disponibile una tabella con collegamenti ai singoli esercizi
 |----|----|----|----|----|
 | [01](../../issues/74)  | [02*](../../issues/78)  | [03](../../issues/76)  | [04](../../issues/66)  | [05](../../issues/77)  |
 
-\* _L'esercizio 2 è identico all'esercizio 2 dell'esonero di Dicembre 2015 e pertanto anche all'esercizio 1 dell'esonero di Dicembre 2014, facendoci click verrai quindi reindirizzato alla pagina di quest'ultimo__
+\* _L'esercizio 2 è identico all'esercizio 2 dell'esonero di Dicembre 2015 e pertanto anche all'esercizio 1 dell'esonero di Dicembre 2014, facendoci click verrai quindi reindirizzato alla pagina di quest'ultimo_
 
 #### Esonero B di Dicembre 2016
 
@@ -167,7 +167,7 @@ Per ogni scheda è disponibile una tabella con collegamenti ai singoli esercizi
 |----|----|
 | [01*](../../issues/95)  | [02*](../../issues/96)  |
 
-\* _L'esercizio 2 è identico all'esercizio 5 della prova di esonero A di Dicembre 2016, facendoci click verrai quindi reindirizzato alla pagina di quest'ultimo__
+\* _L'esercizio 2 è identico all'esercizio 5 della prova di esonero A di Dicembre 2016, facendoci click verrai quindi reindirizzato alla pagina di quest'ultimo_
 
 #### Simulazione esonero di Dicembre 2022
 
