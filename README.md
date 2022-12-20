@@ -10,6 +10,12 @@ _**N.B:** Considereremo come "risolti" gli esercizi con soluzioni confermate in 
 
 #### Prove passate
 - [Simulazione esonero di Novembre 2016](#simulazione-esonero-di-novembre-2016)
+- [Simulazione esonero di Dicembre 2014](#simulazione-esonero-di-dicembre-2014)
+- [Esonero di Dicembre 2014](#esonero-di-dicembre-2014)
+- [Esonero di Dicembre 2015](#esonero-di-dicembre-2015)
+- [Esonero A di Dicembre 2016](#esonero-a-di-dicembre-2016)
+- [Esonero B di Dicembre 2016](#esonero-b-di-dicembre-2016)
+- [Simulazione esonero di Dicembre 2016](#simulazione-esonero-di-dicembre-2022)
 
 #### Schede di esercizi
 |    |    |    |    |    |    |
@@ -77,7 +83,7 @@ Per ogni scheda è disponibile una tabella con collegamenti ai singoli esercizi
 |----|----|----|----|----|
 | [01*](../../issues/26)  | [02*](../../issues/27)  | [03*](../../issues/28)  | [04](../../issues/32)  | [05](../../issues/33)  |
 
-\* _Esercizio 1, 2 e 3 della scheda di esercizi 5 sono identici rispettivamente agli esercizi 4, 5 e 6 della scheda 4, facendoci click verrete quindi reindirizzati direttamente ai corrispondenti della scheda precedente_
+\* _Esercizio 1, 2 e 3 della scheda di esercizi 5 sono identici rispettivamente agli esercizi 4, 5 e 6 della scheda 4, facendoci click verrai quindi reindirizzato direttamente ai corrispondenti della scheda precedente_
 
 ### Scheda di esercizi 6
 
@@ -105,7 +111,7 @@ Per ogni scheda è disponibile una tabella con collegamenti ai singoli esercizi
 |----|----|----|----|----|
 | [01*](../../issues/54)  | [02](../../issues/56)  | [03](../../issues/57)  | [04](../../issues/64) | [05](../../issues/65) |
 
-\* _L'esercizio 1 della scheda di esercizi 8 è identico all'esercizio 9 della scheda 7, facendoci click verrete quindi reindirizzati a quest'ultimo_
+\* _L'esercizio 1 della scheda di esercizi 8 è identico all'esercizio 9 della scheda 7, facendoci click verrai quindi reindirizzato a quest'ultimo_
 
 ### Scheda di esercizi 9
 
@@ -123,6 +129,12 @@ Per ogni scheda è disponibile una tabella con collegamenti ai singoli esercizi
 |----|----|----|----|----|-----|
 | [01](../../issues/40)  | [02](../../issues/41)  | [03](../../issues/42)  | [04](../../issues/43)  | [05](../../issues/44)  | [06](../../issues/45)  |
 
+#### Simulazione esonero di Dicembre 2014
+
+|    |    |    |    |    |     |
+|----|----|----|----|----|-----|
+| [01](../../issues/84)  | [02](../../issues/85)  | [03](../../issues/86)  | [04](../../issues/87)  | [05-B](../../issues/88)  | [05-C](../../issues/89)  |
+
 #### Esonero di Dicembre 2014
 
 |    |    |    |    |    |     |
@@ -133,22 +145,31 @@ Per ogni scheda è disponibile una tabella con collegamenti ai singoli esercizi
 
 |    |    |    |    |    |
 |----|----|----|----|----|
-| [01](../../issues/90)  | [02](../../issues/91)  | [03](../../issues/92)  | [04](../../issues/93)  | [05](../../issues/94)  |
+| [01](../../issues/90)  | [02*](../../issues/78)  | [03](../../issues/92)  | [04](../../issues/93)  | [05](../../issues/94)  |
+
+\* _L'esercizio 2 è identico all'esercizio 1 dell'esonero di Dicembre 2014, facendoci click verrai quindi reindirizzato alla pagina di quest'ultimo__
 
 #### Esonero A di Dicembre 2016
 
 |    |    |    |    |    |
 |----|----|----|----|----|
-| [01](../../issues/74)  | [02](../../issues/75)  | [03](../../issues/76)  | [04](../../issues/66)  | [05](../../issues/77)  |
+| [01](../../issues/74)  | [02*](../../issues/78)  | [03](../../issues/76)  | [04](../../issues/66)  | [05](../../issues/77)  |
+
+\* _L'esercizio 2 è identico all'esercizio 2 dell'esonero di Dicembre 2015 e pertanto anche all'esercizio 1 dell'esonero di Dicembre 2014, facendoci click verrai quindi reindirizzato alla pagina di quest'ultimo__
 
 #### Esonero B di Dicembre 2016
 
 |    |    |
 |----|----|
-| [01](../../issues/95)  | [02](../../issues/96)  |
+| [01*](../../issues/95)  | [02*](../../issues/96)  |
+
+
+\* _L'esercizio 2 è identico all'esercizio 5 della prova di esonero A di Dicembre 2016, facendoci click verrai quindi reindirizzato alla pagina di quest'ultimo__
 
 #### Simulazione esonero di Dicembre 2022
 
 |    |    |    |    |    |     |     |
 |----|----|----|----|----|-----|-----|
-| [01](../../issues/67)  | [02](../../issues/68)  | [03](../../issues/69)  | [04](../../issues/70)  | [05](../../issues/71)  | [06](../../issues/72) | [A](../../issues/73) |
+| [01](../../issues/67)  | [02](../../issues/78)  | [03](../../issues/69)  | [04](../../issues/74)  | [05](../../issues/71)  | [06](../../issues/72) | [A](../../issues/77) |
+
+_**N.B.:** Gli esercizi 2, 4 e A sono duplicati rispetto ad esercizi di prove di esonero passate, facendoci click verrete pertanto reindirizzato direttamente all'esercizio corrispondente dell'esonero da cui provengono originariamente_
