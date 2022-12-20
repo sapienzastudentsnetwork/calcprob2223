@@ -11,11 +11,13 @@ _**N.B:** Considereremo come "risolti" gli esercizi con soluzioni confermate in 
 #### Prove passate
 - [Simulazione esonero di Novembre 2016](#simulazione-esonero-di-novembre-2016)
 - [Simulazione esonero di Dicembre 2014](#simulazione-esonero-di-dicembre-2014)
-- [Esonero di Dicembre 2014](#esonero-di-dicembre-2014)
-- [Esonero di Dicembre 2015](#esonero-di-dicembre-2015)
-- [Esonero A di Dicembre 2016](#esonero-a-di-dicembre-2016)
-- [Esonero B di Dicembre 2016](#esonero-b-di-dicembre-2016)
-- [Simulazione esonero di Dicembre 2016](#simulazione-esonero-di-dicembre-2022)
+- [Esonero di Dicembre 2014*](#esonero-di-dicembre-2014)
+- [Esonero di Dicembre 2015*](#esonero-di-dicembre-2015)
+- [Esonero A di Dicembre 2016*](#esonero-a-di-dicembre-2016)
+- [Esonero B di Dicembre 2016*](#esonero-b-di-dicembre-2016)
+- [Simulazione esonero di Dicembre 2022](#simulazione-esonero-di-dicembre-2022)
+
+\* _Le prove passate contrassegnate da asterisco tra quelle enumerate comprendono all'interno delle pagine dei rispettivi esercizi le soluzioni "ufficiali" (proposte dal prof. Marco Isopi)_
 
 #### Schede di esercizi
 |    |    |    |
