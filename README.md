@@ -165,7 +165,7 @@ Per ogni scheda è disponibile una tabella con collegamenti ai singoli esercizi
 
 |    |    |
 |----|----|
-| [01*](../../issues/95)  | [02*](../../issues/96)  |
+| [01](../../issues/95)  | [02*](../../issues/96)  |
 
 \* _L'esercizio 2 è identico all'esercizio 5 della prova di esonero A di Dicembre 2016, facendoci click verrai quindi reindirizzato alla pagina di quest'ultimo_
 
