@@ -123,6 +123,30 @@ Per ogni scheda è disponibile una tabella con collegamenti ai singoli esercizi
 |----|----|----|----|----|-----|
 | [01](../../issues/40)  | [02](../../issues/41)  | [03](../../issues/42)  | [04](../../issues/43)  | [05](../../issues/44)  | [06](../../issues/45)  |
 
+#### Esonero di Dicembre 2014
+
+|    |    |    |    |    |     |
+|----|----|----|----|----|-----|
+| [01](../../issues/78)  | [02](../../issues/79)  | [03](../../issues/80)  | [04](../../issues/81)  | [05](../../issues/82)  | [06](../../issues/83)  |
+
+#### Esonero di Dicembre 2015
+
+|    |    |    |    |    |
+|----|----|----|----|----|
+| [01](../../issues/90)  | [02](../../issues/91)  | [03](../../issues/92)  | [04](../../issues/93)  | [05](../../issues/94)  |
+
+#### Esonero A di Dicembre 2016
+
+|    |    |    |    |    |
+|----|----|----|----|----|
+| [01](../../issues/74)  | [02](../../issues/75)  | [03](../../issues/76)  | [04](../../issues/66)  | [05](../../issues/77)  |
+
+#### Esonero B di Dicembre 2016
+
+|    |    |
+|----|----|
+| [01](../../issues/95)  | [02](../../issues/96)  |
+
 #### Simulazione esonero di Dicembre 2022
 
 |    |    |    |    |    |     |     |
