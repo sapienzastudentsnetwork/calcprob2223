@@ -122,3 +122,9 @@ Per ogni scheda è disponibile una tabella con collegamenti ai singoli esercizi
 |    |    |    |    |    |     |
 |----|----|----|----|----|-----|
 | [01](../../issues/40)  | [02](../../issues/41)  | [03](../../issues/42)  | [04](../../issues/43)  | [05](../../issues/44)  | [06](../../issues/45)  |
+
+#### Simulazione esonero di Dicembre 2022
+
+|    |    |    |    |    |     |     |
+|----|----|----|----|----|-----|-----|
+| [01](../../issues/67)  | [02](../../issues/68)  | [03](../../issues/69)  | [04](../../issues/70)  | [05](../../issues/71)  | [06](../../issues/72) | [A](../../issues/73) |
