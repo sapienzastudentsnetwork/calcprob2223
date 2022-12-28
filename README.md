@@ -26,10 +26,11 @@ _**N.B:** Considereremo come "risolti" gli esercizi con soluzioni confermate in 
 | [4](#scheda-di-esercizi-4) | [5](#scheda-di-esercizi-5) | [6](#scheda-di-esercizi-6) |
 | [7](#scheda-di-esercizi-7) | [8](#scheda-di-esercizi-8) | [9](#scheda-di-esercizi-9) |
 
-#### Filtri per categoria
-- [Esercizi etichettati come "da risolvere"](../../issues?q=label%3A"da+risolvere")
-- [Esercizi etichettati come "da revisionare"](../../issues?q=label%3A"da+revisionare")
-- [Esercizi etichettati come "risolti"](../../issues?q=label%3Arisolto)
+#### Filtri per stato
+
+- [Esercizi da risolvere](../../issues?q=is%3Aissue+sort%3Aupdated-desc+label%3A"da+risolvere"+)
+- [Esercizi con soluzioni pubblicate](../../issues?q=is%3Aissue+sort%3Aupdated-desc+-label%3A"da+risolvere")
+- [Esercizi con soluzioni confermate](../../issues?q=is%3Aissue+sort%3Aupdated-desc+label%3Arisolto)
 - [Aggiornamenti (commenti / soluzioni) più recenti](../../issues?q=sort%3Aupdated-desc+)
 
 ### Risorse utili
